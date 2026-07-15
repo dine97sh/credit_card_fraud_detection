@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection
+https://www.linkedin.com/posts/dineshtd1997_datascience-machinelearning-frauddetection-ugcPost-7483107525685424128-G68s/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACewmSABB95qAzIkdwrkUbkWAWU2sQZSvS4
 
 End-to-end fraud detection pipeline combining **transaction-level features** and **graph-network features**, built on a BankSim-style dataset. The model is trained with XGBoost, corrected for severe class imbalance with SMOTE, explained with SHAP, and presented through an interactive **Power BI** dashboard.
 
